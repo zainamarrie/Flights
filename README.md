@@ -26,7 +26,7 @@ Flights_project.ipynb : Python script containing data analysis code
 README.md : Documentation for the project
 
 ### How to Run:
-1. git clone https://github.com/yourusername/Flights.git
+1. git clone https://github.com/zainamarrie/Flights.git
 2. Install the Required Packages:pip install pandas matplotlib seaborn scikit-learn
 3. Run the Analysis Script:Flights_project.ipynb
 4. Dataset:flights.csv
